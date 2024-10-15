@@ -1,0 +1,36 @@
+{C:/daihoc/TH thiet ke logic/Stopwatch/tb_stopwatch.v} {1 {vlog -work work -stats=none {C:/daihoc/TH thiet ke logic/Stopwatch/tb_stopwatch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_stopwatch
+
+Top level modules:
+	tb_stopwatch
+
+} {} {}} {C:/daihoc/TH thiet ke logic/Stopwatch/clock_1hz.v} {1 {vlog -work work -stats=none {C:/daihoc/TH thiet ke logic/Stopwatch/clock_1hz.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clock_1hz
+
+Top level modules:
+	clock_1hz
+
+} {} {}} {C:/daihoc/TH thiet ke logic/Stopwatch/clock.v} {1 {vlog -work work -stats=none {C:/daihoc/TH thiet ke logic/Stopwatch/clock.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clock
+
+Top level modules:
+	clock
+
+} {} {}} {C:/daihoc/TH thiet ke logic/Stopwatch/decoder7d.v} {1 {vlog -work work -stats=none {C:/daihoc/TH thiet ke logic/Stopwatch/decoder7d.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder7d
+
+Top level modules:
+	decoder7d
+
+} {} {}} {C:/daihoc/TH thiet ke logic/Stopwatch/stopwatch.v} {1 {vlog -work work -stats=none {C:/daihoc/TH thiet ke logic/Stopwatch/stopwatch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stopwatch
+
+Top level modules:
+	stopwatch
+
+} {} {}}

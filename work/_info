@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vClock
+!s110 1728619393
+!i10b 1
+!s100 Pbj<RBAVcRQdTG9k6V`>`2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iz_94`f4gzDngJUe4nWB]03
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/daihoc/TH thiet ke logic/Stopwatch
+w1728545082
+Z3 8C:/daihoc/TH thiet ke logic/Stopwatch/clock.v
+Z4 FC:/daihoc/TH thiet ke logic/Stopwatch/clock.v
+!i122 10
+Z5 L0 1 73
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1728619393.000000
+Z7 !s107 C:/daihoc/TH thiet ke logic/Stopwatch/clock.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/daihoc/TH thiet ke logic/Stopwatch/clock.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+n@clock
+vclock
+Z11 !s110 1728962246
+!i10b 1
+!s100 zn]Be9I?nW:U]iIW:O9aU3
+R0
+I>iO9_=g7[Cg?X@IQ:QoZm3
+R1
+R2
+w1728619442
+R3
+R4
+!i122 80
+R5
+R6
+r1
+!s85 0
+31
+!s108 1728962245.000000
+R7
+R8
+!i113 1
+R9
+R10
+vclock_1hz
+R11
+!i10b 1
+!s100 E3ocZSZczZK8>1R:Yd;io1
+R0
+IG>g0eUz_8^M==6EZ9ULJ20
+R1
+R2
+w1728961145
+8C:/daihoc/TH thiet ke logic/Stopwatch/clock_1hz.v
+FC:/daihoc/TH thiet ke logic/Stopwatch/clock_1hz.v
+!i122 81
+L0 1 15
+R6
+r1
+!s85 0
+31
+Z12 !s108 1728962246.000000
+!s107 C:/daihoc/TH thiet ke logic/Stopwatch/clock_1hz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/daihoc/TH thiet ke logic/Stopwatch/clock_1hz.v|
+!i113 1
+R9
+R10
+vdecoder7d
+R11
+!i10b 1
+!s100 L@Z]99`jXAaV`V@A=RnRP3
+R0
+IVIaK8]<?B7We8^OKzAMM43
+R1
+R2
+w1728544991
+8C:/daihoc/TH thiet ke logic/Stopwatch/decoder7d.v
+FC:/daihoc/TH thiet ke logic/Stopwatch/decoder7d.v
+!i122 82
+L0 1 16
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/daihoc/TH thiet ke logic/Stopwatch/decoder7d.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/daihoc/TH thiet ke logic/Stopwatch/decoder7d.v|
+!i113 1
+R9
+R10
+vstopwatch
+R11
+!i10b 1
+!s100 VojG?ClnQD:_U7hjeWZQ43
+R0
+IMHEmjcg7VjEh<T@CiM4ZV1
+R1
+R2
+w1728618921
+8C:/daihoc/TH thiet ke logic/Stopwatch/stopwatch.v
+FC:/daihoc/TH thiet ke logic/Stopwatch/stopwatch.v
+!i122 83
+L0 1 18
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/daihoc/TH thiet ke logic/Stopwatch/stopwatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/daihoc/TH thiet ke logic/Stopwatch/stopwatch.v|
+!i113 1
+R9
+R10
+vtb_stopwatch
+R11
+!i10b 1
+!s100 [kBDO4_P?_]ljMZcN]Q_H3
+R0
+I7=`NV>7HTjTDG9PJUIU8K3
+R1
+R2
+w1728962237
+8C:/daihoc/TH thiet ke logic/Stopwatch/tb_stopwatch.v
+FC:/daihoc/TH thiet ke logic/Stopwatch/tb_stopwatch.v
+!i122 84
+L0 2 76
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/daihoc/TH thiet ke logic/Stopwatch/tb_stopwatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/daihoc/TH thiet ke logic/Stopwatch/tb_stopwatch.v|
+!i113 1
+R9
+R10
